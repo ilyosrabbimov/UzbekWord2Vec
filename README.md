@@ -1,2 +1,1 @@
-# UzbekWord2Vec
-Uzbek Word2Vec
+Word Embeddings for Uzbek Language
